@@ -12,3 +12,5 @@ i am adding this for checking some commits history [Added changes]
 for checking third time
 
 for four time changes
+
+i am doing this to raise a conflitcs in my repo in git [let checkout this] 
