@@ -18,3 +18,7 @@ i am doing this to raise a conflitcs in my repo in git [let checkout this] Test.
 My Name is Ram Ashish
 
 I am from Uttar Pradesh
+
+My Name is Rahul Thakur.
+
+I am from Himachal Pradesh
