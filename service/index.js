@@ -1,6 +1,3 @@
-import './bullmq.js';
-import './worker.js';
-
 let emptyString=[];
 let i=0;
 do{
