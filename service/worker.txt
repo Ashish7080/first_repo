@@ -19,27 +19,3 @@ Worker is used to proces the job from bull
         "lack of pressure handling"
     ]
 }
-/**
-*Are You ready to encounter a conflitcs
-*/
-let Array=[
-    {
-        id:1,
-        process_name:"email_send",
-        time:"5000ms",
-        priority:1
-    },
-    {
-        id:2,
-        process_name:"apply_matching_algo",
-        time:"5000ms",
-        priority:2
-    },
-    {
-        id:3,
-        process_name:"sms_send",
-        time:"5000ms",
-        priority:3
-    }
-
-]
