@@ -1,5 +1,25 @@
 Worker is used to proces the job from bull
 /**
+*Doing this intentionally to create a merge conflocts
+*/
+{
+    Name:{
+        firstName:"Ram",
+        lastName:"Ashish"
+    },
+    college:"REC Kannnauj",
+    RollNo:50,
+    address:"Uttar Pradesh",
+    Hobbies:[
+        "Dancing",
+        "singing",
+        "Teaching"
+    ],
+    weakness:[
+        "lack of pressure handling"
+    ]
+}
+/**
 *Are You ready to encounter a conflitcs
 */
 let Array=[
